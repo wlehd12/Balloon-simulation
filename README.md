@@ -2,7 +2,8 @@
 
 -Distance Constraint
 
-![image](https://wlehd12.github.io/Balloon-simulation/assets/125344095/933c04fe-c4d7-4a5f-8ef7-782644d7f651)
+![image](https://github.com/wlehd12/Balloon-simulation/assets/125344095/933c04fe-c4d7-4a5f-8ef7-782644d7f651)
+![image](https://github.com/wlehd12/Balloon-simulation/assets/125344095/704faa48-15a2-48ed-8fe6-d35b92ccbc2a)
 
 -Bending Constraint
 
